@@ -1,6 +1,6 @@
 # A study of oversampling techniques using GAN and CycleGAN: an overview using a binary classifier
 
-Final Project for the Deep Learning Course in 2022 at University of Cagliari.
+Final Project for the Deep Learning Course in 2023 at University of Cagliari.
 
 ## The Project
 <center>
